@@ -16,7 +16,7 @@ The **Digital Library Book Management System** is a console-based Java applicati
 - **Data Structure**: HashMap (for efficient book storage and retrieval)
 - **User Input Handling**: Java Scanner class
 
-## 🚀 Setup Instructions
+## Setup Instructions
 ### Prerequisites
 Ensure you have the following installed:
 - **Java Development Kit (JDK) 11 or later**
